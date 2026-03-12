@@ -1,5 +1,6 @@
-# Auditing Cloud Activity Using AWS CloudTrail
-
+# EX - 4 Auditing Cloud Activity Using AWS CloudTrail
+### NAME: JOHN PALL M
+### REG NO.: 212224040140
 ## Aim
 
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud environment.
